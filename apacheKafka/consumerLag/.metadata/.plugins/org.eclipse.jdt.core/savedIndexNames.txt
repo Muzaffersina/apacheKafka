@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\TCMUACIKGOZ\Desktop\apacheKafkaProject\apacheKafka\consumerLag\.metadata\.plugins\org.eclipse.jdt.core

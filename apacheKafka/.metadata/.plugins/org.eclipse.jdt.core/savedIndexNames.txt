@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\TCMUACIKGOZ\Desktop\apacheKafkaProject\apacheKafka\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1876429791.index
+1366170616.index
+1162878773.index
